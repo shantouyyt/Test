@@ -13,7 +13,7 @@ namespace GitTest
         {
             //xxxx
 
-            string str = "1";
+            string str = "jjjjjjjjjjjj";
         }
     }
 }
